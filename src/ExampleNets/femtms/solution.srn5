@@ -957,7 +957,7 @@
 									<name>Current</name>
 									<value>
 										<which>1</which>
-										<value>1.00000000000000000e+03</value>
+										<value>1.00000000000000000e+00</value>
 									</value>
 								</second>
 							</item>
@@ -1233,7 +1233,7 @@
 									<name>FixedMax</name>
 									<value>
 										<which>1</which>
-										<value>6.50113253785113455e+05</value>
+										<value>6.50079568103053816e+02</value>
 									</value>
 								</second>
 							</item>
@@ -1245,7 +1245,7 @@
 									<name>FixedMin</name>
 									<value>
 										<which>1</which>
-										<value>2.03687931815817501e+04</value>
+										<value>2.03691970953775758e+01</value>
 									</value>
 								</second>
 							</item>
@@ -5141,7 +5141,7 @@
 									<name>ScaleBarLength</name>
 									<value>
 										<which>1</which>
-										<value>0.00000000000000000e+00</value>
+										<value>9.99899999999999949e+01</value>
 									</value>
 								</second>
 							</item>
@@ -5613,7 +5613,7 @@
 									<name>ScaleBarHeight</name>
 									<value>
 										<which>1</which>
-										<value>0.00000000000000000e+00</value>
+										<value>9.99899999999999949e+01</value>
 									</value>
 								</second>
 							</item>
@@ -5625,7 +5625,7 @@
 									<name>ScaleBarLength</name>
 									<value>
 										<which>1</which>
-										<value>0.00000000000000000e+00</value>
+										<value>9.99899999999999949e+01</value>
 									</value>
 								</second>
 							</item>
@@ -5649,7 +5649,7 @@
 									<name>ScaleBarMultiplier</name>
 									<value>
 										<which>1</which>
-										<value>9.99899999999999949e+01</value>
+										<value>0.00000000000000000e+00</value>
 									</value>
 								</second>
 							</item>
